@@ -1,0 +1,5 @@
+Name = input('what is your Name: ')
+Age = input('how old are you? ')
+Location = input('where do you stay? ')
+print('You are welcome')
+print('Hello', Name,'you are',Age,'years old, and you stay at',Location)
